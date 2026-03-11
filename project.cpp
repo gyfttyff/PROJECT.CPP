@@ -6,7 +6,7 @@ using namespace std;
 
 int composition (int a, int b)
 {
-        return a*b;
+        return a*b; //произведениe
 }
 
 int main()
